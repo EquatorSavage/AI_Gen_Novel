@@ -30,3 +30,14 @@ pip install -r requirements.txt
 
 - 运行`app.py`启动一个基于gradio的应用，通过打开显示的链接，您可以体验到AI小说生成的可视化过程。
 
+![image](https://github.com/EquatorSavage/AI_Gen_Novel/assets/38064179/3360959a-a7d4-474c-bccd-71ec690081d8)
+![image](https://github.com/EquatorSavage/AI_Gen_Novel/assets/38064179/79070613-a4a2-48cf-aeef-630485fd276f)
+![image](https://github.com/EquatorSavage/AI_Gen_Novel/assets/38064179/d03afa42-15f9-4e7f-9032-04df5457e9e5)
+![image](https://github.com/EquatorSavage/AI_Gen_Novel/assets/38064179/979172c4-b210-4dda-b2cf-5a1ae03ed2ff)
+![image](https://github.com/EquatorSavage/AI_Gen_Novel/assets/38064179/9edc5129-9bed-4e6d-8e74-510a2381b411)
+![image](https://github.com/EquatorSavage/AI_Gen_Novel/assets/38064179/5f82e310-33dc-4553-9e7d-4900c9e0f898)
+
+
+
+
+
